@@ -1,0 +1,239 @@
+abr 30, 2016 9:02:51 PM hilos.MainThread run
+INFORMACIÓN: Nombre hilo3: hilo_interrupciones
+
+abr 30, 2016 9:02:51 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo1
+abr 30, 2016 9:02:51 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo 2
+abr 30, 2016 9:02:51 PM hilos.MainThread run
+INFORMACIÓN: Nombre hilo1: hilo_secuencia1
+
+abr 30, 2016 9:02:51 PM hilos.MainThread run
+INFORMACIÓN: Nombre hilo2: hilo_secuencia2
+
+abr 30, 2016 9:02:51 PM hilos.MainThread run
+INFORMACIÓN: Id del hilo_interrupciones 16
+
+abr 30, 2016 9:02:51 PM hilos.MainThread run
+INFORMACIÓN: Id del hilo_secuencia1 22
+
+abr 30, 2016 9:02:53 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Primos
+
+abr 30, 2016 9:02:53 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Fibonacci
+
+abr 30, 2016 9:02:53 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo1  1
+abr 30, 2016 9:02:53 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo1
+abr 30, 2016 9:02:53 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo1
+abr 30, 2016 9:02:54 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo 2
+abr 30, 2016 9:02:54 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Random
+abr 30, 2016 9:02:54 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Pares
+abr 30, 2016 9:02:54 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo2  1
+abr 30, 2016 9:02:54 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo 2
+abr 30, 2016 9:02:55 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Fibonacci
+
+abr 30, 2016 9:02:55 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Primos
+
+abr 30, 2016 9:02:55 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo1  2
+abr 30, 2016 9:02:55 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo1
+abr 30, 2016 9:02:55 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo1
+abr 30, 2016 9:02:57 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo 2
+abr 30, 2016 9:02:57 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Pares
+abr 30, 2016 9:02:57 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Random
+abr 30, 2016 9:02:57 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Primos
+
+abr 30, 2016 9:02:57 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo2  2
+abr 30, 2016 9:02:57 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo 2
+abr 30, 2016 9:02:57 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Fibonacci
+
+abr 30, 2016 9:02:57 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo1  3
+abr 30, 2016 9:02:57 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo1
+abr 30, 2016 9:02:57 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo1
+abr 30, 2016 9:02:59 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Fibonacci
+
+abr 30, 2016 9:02:59 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Primos
+
+abr 30, 2016 9:02:59 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo1  4
+abr 30, 2016 9:02:59 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo1
+abr 30, 2016 9:02:59 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo1
+abr 30, 2016 9:03:00 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo 2
+abr 30, 2016 9:03:00 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Random
+abr 30, 2016 9:03:00 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Pares
+abr 30, 2016 9:03:00 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo2  3
+abr 30, 2016 9:03:00 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo 2
+abr 30, 2016 9:03:01 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Primos
+
+abr 30, 2016 9:03:01 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Fibonacci
+
+abr 30, 2016 9:03:01 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo1  5
+abr 30, 2016 9:03:01 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo1
+abr 30, 2016 9:03:01 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo1
+abr 30, 2016 9:03:03 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo 2
+abr 30, 2016 9:03:03 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Pares
+abr 30, 2016 9:03:03 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Random
+abr 30, 2016 9:03:03 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo2  4
+abr 30, 2016 9:03:03 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Fibonacci
+
+abr 30, 2016 9:03:03 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo 2
+abr 30, 2016 9:03:03 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Primos
+
+abr 30, 2016 9:03:03 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo1  6
+abr 30, 2016 9:03:03 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo1
+abr 30, 2016 9:03:03 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo1
+abr 30, 2016 9:03:05 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Primos
+
+abr 30, 2016 9:03:05 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Fibonacci
+
+abr 30, 2016 9:03:05 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo1  7
+abr 30, 2016 9:03:05 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo1
+abr 30, 2016 9:03:05 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo1
+abr 30, 2016 9:03:06 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo 2
+abr 30, 2016 9:03:06 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Random
+abr 30, 2016 9:03:06 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Pares
+abr 30, 2016 9:03:06 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo2  5
+abr 30, 2016 9:03:06 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo 2
+abr 30, 2016 9:03:07 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Fibonacci
+
+abr 30, 2016 9:03:07 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Primos
+
+abr 30, 2016 9:03:07 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo1  8
+abr 30, 2016 9:03:07 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo1
+abr 30, 2016 9:03:07 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo1
+abr 30, 2016 9:03:09 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo 2
+abr 30, 2016 9:03:09 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Pares
+abr 30, 2016 9:03:09 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Random
+abr 30, 2016 9:03:09 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo2  6
+abr 30, 2016 9:03:09 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo 2
+abr 30, 2016 9:03:09 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Primos
+
+abr 30, 2016 9:03:09 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Fibonacci
+
+abr 30, 2016 9:03:09 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo1  9
+abr 30, 2016 9:03:09 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo1
+abr 30, 2016 9:03:09 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo1
+abr 30, 2016 9:03:11 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Fibonacci
+
+abr 30, 2016 9:03:11 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo1 Hilo1 Secuencia: Primos
+
+abr 30, 2016 9:03:11 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo1  10
+abr 30, 2016 9:03:11 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo1
+abr 30, 2016 9:03:11 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Terminado Hilo1
+abr 30, 2016 9:03:12 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo 2
+abr 30, 2016 9:03:12 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Random
+abr 30, 2016 9:03:12 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Pares
+abr 30, 2016 9:03:12 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo2  7
+abr 30, 2016 9:03:12 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo 2
+abr 30, 2016 9:03:15 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo 2
+abr 30, 2016 9:03:15 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Pares
+abr 30, 2016 9:03:15 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Random
+abr 30, 2016 9:03:15 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo2  8
+abr 30, 2016 9:03:15 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo 2
+abr 30, 2016 9:03:18 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo 2
+abr 30, 2016 9:03:18 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Random
+abr 30, 2016 9:03:18 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Pares
+abr 30, 2016 9:03:18 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo2  9
+abr 30, 2016 9:03:18 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Durmiendo Hilo 2
+abr 30, 2016 9:03:21 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Ejecucion Hilo 2
+abr 30, 2016 9:03:21 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Pares
+abr 30, 2016 9:03:21 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Secuencia hilo2 Hilo2 Secuencia: Random
+abr 30, 2016 9:03:21 PM hilos.hilo_interrupciones run
+INFORMACIÓN: Numero de Interruciones al hilo2  10
+abr 30, 2016 9:03:21 PM hilos.hilo_interrupciones run
+INFORMACIÓN: ESTADO: Terminado Hilo2
